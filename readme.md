@@ -2,7 +2,7 @@
 
 
 
-**👩🏻‍💻 I’m a data engineer, with background in SQL, Python, AWS, ETL, and Machine Learning**
+**👩🏻‍💻 I’m a data engineer, with a background in SQL, Python, AWS, ETL, and Machine Learning**
 
 
 **📫 Connect with me**
