@@ -1,8 +1,9 @@
-# 👋 Hi, I’m Yane!
+![](Social_dino-with-hat.gif)
 
-
-
-**👩🏻‍💻 I’m a data engineer, with a background in SQL, Python, AWS, ETL, and Machine Learning**
+- 👋 Hi, I’m Yane!
+- :woman_technologist: I’m interested in Data Engineering
+- :t-rex: I’m currently a Cloud Technical Resident @ Google Cloud
+- :ocean: Fun fact: I'm a surfer 
 
 
 **📫 Connect with me**
